@@ -1,3 +1,3 @@
-Maastricht University 3rd year student. 
-More projects also in my GitLab:
+Maastricht University BSc Computer Science 
+More projects are also in my GitLab:
 https://gitlab.maastrichtuniversity.nl/I6357505
